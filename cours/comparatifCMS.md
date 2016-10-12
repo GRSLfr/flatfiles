@@ -14,10 +14,10 @@ Il permet, à des individus ou à des groupes hiérarchisés, de mettre à jour 
 * Prestashop
 * Jenkill
 
-| CMS  | Age  | Version  |   |   |
-|---|---|---|---|---|
-| Wordpress |   |   |   |   |
-| Joomla! |   |   |   |   |
-| Drupal |   |   |   |   |
-| Prestashop |   |   |   |   |
-| Jenkill |   |   |   |   |
+| CMS  | Première Version  | Version  | Prix  |
+|---|---|---|---|
+| Wordpress | 2003   | 4.6  | Gratuit  |
+| Joomla! | 2005  | 3.6  | Gratuit  |
+| Drupal | 2001  | 8.1  |  Gratuit |
+| Prestashop |  2005 | 1.6  | Gratuit  |
+| Jekyll | 2008  | 3.2  | Gratuit  |
