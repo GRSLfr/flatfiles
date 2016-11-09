@@ -4,3 +4,11 @@ title: Home page
 ---
     <h2>Index.html</h2>
     <p>The website is available !!!</p>
+    <hr><hr><hr>
+    {% for post in site.posts %}
+    <h2>{{post.title}}</h2>
+    <h6>{{post.date}}</h6>
+      <p><a href="{{post.url}}">Read more</a> <br>
+      </p>
+      <hr><hr>
+    {% endfor%}
