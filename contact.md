@@ -1,6 +1,6 @@
 ---
-layout: default
-subtitle: Contact me
+layout: page
+title: Contact me
 ---
 
 Contact me plz :)
