@@ -22,3 +22,5 @@ _ devant les fichiers : pas générer pas Jekyll
 
 
 ## Cours 5
+
+Voir boucles-jekyll.md
