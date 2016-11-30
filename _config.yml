@@ -1,3 +1,6 @@
 charset: UTF-8
 title: Flatfiles
 description: This is the home page
+collections:
+  cours:
+    layout: cours
