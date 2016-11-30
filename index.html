@@ -8,11 +8,14 @@ title: Home page
 
     Cours
 
-    <hr>{% for cour in site.cours %}
-    <h2>{{cour.title}}</h2>
-      <p><a href="{{cour.url}}">Learn more </a> <br>
-      </p>
-      <hr><hr>
+    <hr>
+    {% for cour in site.cours %}
+      <article class="article">
+        <h2>{{cour.title}}</h2>
+          <p><a href="{{cour.url}}">Learn more </a> <br>
+          </p>
+          <hr><hr>
+      </article>
     {% endfor%}
     <br>
     <br>
@@ -20,9 +23,11 @@ title: Home page
     <br>
     <hr>
     {% for post in site.posts %}
-    <h2>{{post.title}}</h2>
-    <h6>{{post.date}}</h6>
-      <p><a href="{{post.url}}">Read more</a> <br>
-      </p>
-      <hr><hr>
+      <article class="article">
+        <h2>{{post.title}}</h2>
+        <h6>{{post.date}}</h6>
+          <p><a href="{{post.url}}">Read more</a> <br>
+          </p>
+          <hr><hr>
+      </article>
     {% endfor%}
