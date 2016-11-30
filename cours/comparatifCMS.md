@@ -1,3 +1,8 @@
+---
+layout: page
+title: Comparatif CMS
+---
+
 # Comparatif CMS
 
 ## Dénition de CMS
@@ -20,5 +25,5 @@ Il permet, à des individus ou à des groupes hiérarchisés, de mettre à jour 
 | Joomla! | 2005  | 3.6  | Gratuit  |
 | Drupal | 2001  | 8.1  |  Gratuit |
 | Prestashop |  2005 | 1.6  | Gratuit  |
-| Jekyll | 2008  | 3.2  | Gratuit  | 
+| Jekyll | 2008  | 3.2  | Gratuit  |
 Jekyll Not a CMS

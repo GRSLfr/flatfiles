@@ -1,3 +1,8 @@
+---
+layout: page
+title: Les boucles
+---
+
 #Les boucles Jekyll
 
 Une boucle pour créer un menu :

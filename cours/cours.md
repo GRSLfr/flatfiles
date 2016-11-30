@@ -1,3 +1,8 @@
+---
+layout: page
+title: Notes de cours
+---
+
 # Notes de cours
 
 ## Cours 1
@@ -13,14 +18,12 @@ Apprentissage de Github
 
 
 
-## Cours 3 
+## Cours 3
 
-_ devant les fichiers : pas générer pas Jekyll 
+_ devant les fichiers : pas générer pas Jekyll
 
 
 ## Cours 4
 
 
 ## Cours 5
-
-Voir boucles-jekyll.md
