@@ -3,5 +3,5 @@ layout: page
 title: L'équipe
 ---
 
-Présentation de l'équipe :
+##Team :
 Pierre, Paul, Jacques

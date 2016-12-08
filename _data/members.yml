@@ -1,0 +1,20 @@
+- name: Dupont
+  hobbies: Dance
+  cursus: Diploma of Tourism
+  motivation: none
+  avatar: ./assets/images/person-flat.png
+  footballteam: marseille
+
+- name: Durand
+  hobbies: Running
+  cursus: Developer
+  motivation: learn more
+  avatar: ./assets/images/person-flat.png
+  footballteam: paris
+
+- name: Nomame
+  hobbies: Music
+  cursus: kitchen assistant
+  motivation: become cook
+  avatar: ./assets/images/person-flat.png
+  footballteam: lyon
